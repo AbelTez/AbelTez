@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Designing+backend+systems+that+hold+up+under+load;Building+AI-powered+production+software;API+design+%C2%B7+database+modeling+%C2%B7+cloud+architecture;Currently+training+in+AI%2FML+engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Designing+backend+systems+that+hold+up+under+load;Building+AI-powered+production+software;API+design+%C2%B7+database+modeling+%C2%B7+cloud+architecture;Currently+training+in+AI%2FML+engineering" alt="Abel Tezare" />
 
 <br/>
 
@@ -154,19 +154,10 @@ React ecommerce application: product browsing, cart management, PayPal checkout,
 
 <img src="https://streak-stats.demolab.com?user=AbelTez&hide_border=true&theme=tokyonight" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbelTez&theme=tokyo-night&hide_border=true" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbelTez&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
 
 </div>
 
-**Contribution Graph**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbelTez/AbelTez/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbelTez/AbelTez/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbelTez/AbelTez/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
 
 <br/>
 
