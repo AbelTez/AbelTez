@@ -1,80 +1,274 @@
-## Hi there 👋
+<div align="center">
 
 # Abel Tezare
 
-Backend-Focused Full-Stack Developer · Building scalable web and mobile applications
+### Backend-Focused Full-Stack Developer
 
-Hi, I'm Abel Tezare. My work focuses on backend architecture, API design, databases, and practical software systems — I'd rather ship something small that's architected properly than something large that isn't.
+Building scalable APIs, data systems, AI-powered applications, and production-focused software.
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-AbelTez-black?style=for-the-badge&logo=github)](https://github.com/AbelTez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abel%20Tezare-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abel-tezare-52a175321)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge)](https://abel-folio-abeltezare12-9604s-projects.vercel.app/)
 
-## About Me
+</div>
 
-I build backend-focused full-stack systems, designing APIs, data layers, and user-facing applications. Currently working as a full-stack developer on a backend-focused e-receipt verification system, alongside AI/ML training. My public repositories show a preference for structure — layered backends, feature-first mobile architecture, and, when the problem calls for it, systems work like real-time rendering performance.
 
----
+<img src="./assets/banner.png" width="100%" />
 
-## Technical Skills
 
-**Languages:** TypeScript · JavaScript · Python · Dart · Java
+# 👨‍💻 About Me
 
-**Backend:** Node.js · Express · Drizzle ORM · REST API design · JWT auth · better-auth
+I am a backend-focused full-stack developer who enjoys designing reliable systems from the inside out.
 
-**Frontend:** React · Vite · Refine · Tailwind CSS · Radix UI
+My work focuses on:
 
-**Mobile:** Flutter · Riverpod · go_router
-
-**Databases:** PostgreSQL (Neon) · MySQL · Supabase
-
-**Tools:** Git · Docker (basic) · Babylon.js
-
-*This list reflects what's actually in the projects below — nothing here is aspirational.*
-
----
-
-## Engineering Interests
-
-- Backend architecture and API design
-- Database modeling and performance
+- Backend architecture
+- API design
+- Database modeling
 - Cloud-native applications
 - AI-powered software systems
-- Clean, maintainable software design
+- Performance optimization
+
+I prefer building systems with strong foundations:
+
+> "I care more about whether an architecture holds up than whether a demo looks good."
+
+
+Currently:
+- Building a backend-focused eReceipt verification system
+- Training in AI/ML engineering
+- Improving software quality through testing, documentation, and better architecture
+
 
 ---
 
-## Featured Projects
+# 📊 GitHub Analytics
 
-**[maze-runner](https://github.com/AbelTez/maze-runner)** — Real-time maze generation and solving engine (TypeScript, Babylon.js). The core engineering problem was rendering performance, not just getting it on screen: draw calls were cut from ~840 to ~7 for a 20×20 maze through thin instancing and pooled materials.
 
-**[PMS Intelligence & Overdue-Work Risk Analysis](https://github.com/AbelTez/abel_tezare_pms_overdue_work_risk_analysi)** — Assesses whether performance-management-system data can predict which active tasks are likely to become overdue, and whether the underlying database supports fair, reliable performance reporting. Built with SQL data-quality checks, a point-in-time-safe feature pipeline designed to avoid leakage from future state, a time-based (not random) train/test split, and a gradient-boosted classifier — documented explicitly for early-intervention and planning support only, not employee ranking or discipline. AI-assisted development (Claude Code) is disclosed directly in the repo, alongside how each output was validated.
+<div align="center">
 
-**[Alex-Shop](https://github.com/AbelTez/Alex-Shop)** — E-commerce frontend with product browsing, cart, and PayPal checkout, built incrementally across 16 commits from initial layout through a working payment flow. React 19, Vite, Tailwind CSS.
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AbelTez&show_icons=true&hide_border=true&theme=transparent"/>
 
-**Kebkab Events** — Event management platform, live at [kebkabevents.com](https://kebkabevents.com/). *Self-reported — private repository, not independently audited; only the live domain was verified.*
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbelTez&layout=compact&hide_border=true&theme=transparent"/>
 
-**Ava Luxury Planning System** — Full-stack event planning platform covering client management, booking, package/availability scheduling, and an admin dashboard. *Self-reported — private repository, not independently audited.*
+</div>
 
-**[Sisters-Advisor](https://github.com/AbelTez/Sisters-Advisor)** — Early prototype of a conversational advisor built with Streamlit and LLM APIs (OpenAI, Gemini). A single-commit proof of concept exploring how to apply an LLM to a real advisory problem, rather than a polished app — worth a look for the approach more than the finish.
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AbelTez&hide_border=true&theme=transparent"/>
+
+</div>
+
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AbelTez&theme=flat&no-frame=true&margin-w=10"/>
+
+</div>
+
+
+## Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbelTez&theme=github-compact&hide_border=true" width="100%"/>
+
 
 ---
 
-## Current Focus
+# 🚀 Featured Engineering Projects
 
-- Working as a full-stack developer on a backend-focused e-receipt verification system
-- Training in AI/ML fundamentals
-- Closing the gaps this audit surfaced in my public repos: automated tests, CI, and documentation
+
+## 🧾 eReceipt Verification System
+
+<img src="./assets/eims.png" width="800"/>
+
+**Backend Engineering · Security · Document Processing**
+
+A backend-focused digital receipt verification platform designed around real-world financial workflows.
+
+### Engineering highlights:
+
+- Receipt extraction pipeline
+- OCR processing
+- Document parsing
+- Bank-specific integrations
+- Secure API workflows
+- Validation systems
+- Cloud backend architecture
+
+Technologies:
+
+`TypeScript` `Node.js` `Firebase` `Firestore` `OCR` `REST API`
+
 
 ---
 
-## GitHub Activity
+# 🌀 maze-runner
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbelTez&show_icons=true&hide_title=true&hide_border=true" alt="AbelTez's GitHub stats" />
+<img src="./assets/maze-runner.png" width="800"/>
+
+**Real-time maze generation and rendering engine**
+
+A TypeScript + Babylon.js project focused on solving rendering performance challenges.
+
+### Engineering achievement:
+
+Reduced rendering overhead:
+
+
+Techniques:
+
+- Thin instancing
+- Material pooling
+- Performance profiling
+- Real-time rendering optimization
+
+
+Repository:
+https://github.com/AbelTez/maze-runner
+
 
 ---
 
-## Contact
+# 📈 PMS Intelligence & Overdue Work Risk Analysis
 
-- GitHub: [github.com/AbelTez](https://github.com/AbelTez)
-- LinkedIn: [linkedin.com/in/abel-tezare-52a175321](https://www.linkedin.com/in/abel-tezare-52a175321)
-- Portfolio: [abel-folio-abeltezare12-9604s-projects.vercel.app](https://abel-folio-abeltezare12-9604s-projects.vercel.app/)
-- Email: abeltezare12@gmail.com
+<img src="./assets/pms-analysis.png" width="800"/>
+
+
+**Machine Learning · Data Engineering · Responsible AI**
+
+An ML system exploring whether performance-management data can predict tasks at risk of becoming overdue.
+
+Engineering approach:
+
+- Database quality analysis
+- Feature engineering pipeline
+- Point-in-time safe datasets
+- Leakage prevention
+- Time-based validation
+- Gradient boosted classification
+
+
+Designed for:
+
+✅ Early intervention  
+✅ Planning support  
+❌ Not employee ranking or disciplinary decisions
+
+
+---
+
+# 🎉 Ava Luxury Planning System
+
+
+<img src="./assets/ava.png" width="800"/>
+
+
+**Full-Stack Business Application**
+
+A complete event management platform covering:
+
+- Client management
+- Event booking workflows
+- Package management
+- Availability scheduling
+- Admin dashboard
+- Team operations
+
+
+Architecture:
+
+
+---
+
+# 🌐 Kebkab Events
+
+Live:
+https://kebkabevents.com/
+
+
+Event management platform built for real users.
+
+Focus areas:
+
+- Product delivery
+- Deployment
+- Business workflows
+- User experience
+
+
+---
+
+# 🛒 Alex-Shop
+
+
+React ecommerce application featuring:
+
+- Product browsing
+- Cart management
+- PayPal checkout
+- Modern frontend architecture
+
+
+Repository:
+https://github.com/AbelTez/Alex-Shop
+
+
+---
+
+# 🛠 Technical Stack
+
+
+## Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,postgres,mysql,docker"/>
+
+
+## Frontend
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,javascript"/>
+
+
+## Mobile
+
+<img src="https://skillicons.dev/icons?i=flutter,dart"/>
+
+
+## AI / Data
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+
+## Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+
+---
+
+# 🧠 Engineering Interests
+
+
+
+I enjoy solving problems where correctness, maintainability, and performance matter.
+
+
+---
+
+# 📫 Contact
+
+
+GitHub:
+https://github.com/AbelTez
+
+
+LinkedIn:
+https://www.linkedin.com/in/abel-tezare-52a175321
+
+
+Portfolio:
+https://abel-folio-abeltezare12-9604s-projects.vercel.app/
+
+
+Email:
+abeltezare12@gmail.com
