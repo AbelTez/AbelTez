@@ -134,28 +134,9 @@ Event management platform built for real users, with a focus on product delivery
 
 ---
 
-### 🛒 Alex-Shop
-![Status](https://img.shields.io/badge/Status-Shipped-2ea44f?style=flat-square)
-
-React ecommerce application: product browsing, cart management, PayPal checkout, modern frontend architecture.
-
-`React` `PayPal API`
-
-🔗 [github.com/AbelTez/Alex-Shop](https://github.com/AbelTez/Alex-Shop)
-
 <br/>
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbelTez&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbelTez&layout=compact&hide_border=true&theme=tokyonight"/>
-
-<img src="https://streak-stats.demolab.com?user=AbelTez&hide_border=true&theme=tokyonight" />
-
-
-</div>
 
 
 
